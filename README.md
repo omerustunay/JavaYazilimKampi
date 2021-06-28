@@ -1,5 +1,5 @@
 # Java Yazilim Kampi
 
-yazilimKampiGun2 --> 2.gün 1.ödev yapıldı. 
+yazilimKampiGun2 --> 2.gün 1.ödev yapildi. 
 
-5.gun 1.odev --> eTicaret
+eTicaret --> 5.gun 1.odev yapildi.
